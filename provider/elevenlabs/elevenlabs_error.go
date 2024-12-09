@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/lemon-mint/coord/llm"
-	"github.com/lemon-mint/coord/tts"
+	"github.com/2rebi/coord/llm"
+	"github.com/2rebi/coord/tts"
 )
 
 var (

@@ -7,10 +7,10 @@ import (
 
 	aiplatform "cloud.google.com/go/aiplatform/apiv1"
 	"cloud.google.com/go/aiplatform/apiv1/aiplatformpb"
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/embedding"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/embedding"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
 	"google.golang.org/api/option"
 	"google.golang.org/protobuf/types/known/structpb"
 )

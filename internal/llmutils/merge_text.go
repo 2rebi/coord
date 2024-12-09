@@ -1,6 +1,6 @@
 package llmutils
 
-import "github.com/lemon-mint/coord/llm"
+import "github.com/2rebi/coord/llm"
 
 func Normalize(p []llm.Segment) []llm.Segment {
 	if len(p) < 2 {

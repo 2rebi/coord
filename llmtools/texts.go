@@ -3,7 +3,7 @@ package llmtools
 import (
 	"strings"
 
-	"github.com/lemon-mint/coord/llm"
+	"github.com/2rebi/coord/llm"
 )
 
 func TextFromContents(c *llm.Content) string {

@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lemon-mint/coord/llm"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
-	"github.com/lemon-mint/coord/provider/vertexai"
+	"github.com/2rebi/coord/llm"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
+	"github.com/2rebi/coord/provider/vertexai"
 	"gopkg.eu.org/envloader"
 )
 

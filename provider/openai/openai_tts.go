@@ -4,10 +4,10 @@ import (
 	"context"
 	"io"
 
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
-	"github.com/lemon-mint/coord/tts"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
+	"github.com/2rebi/coord/tts"
 	"github.com/sashabaranov/go-openai"
 )
 

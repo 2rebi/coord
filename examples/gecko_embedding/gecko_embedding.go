@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/embedding"
-	"github.com/lemon-mint/coord/pconf"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/embedding"
+	"github.com/2rebi/coord/pconf"
 	"gopkg.eu.org/envloader"
 
-	_ "github.com/lemon-mint/coord/provider/vertexai"
+	_ "github.com/2rebi/coord/provider/vertexai"
 )
 
 func cossim(a, b []float64) float64 {

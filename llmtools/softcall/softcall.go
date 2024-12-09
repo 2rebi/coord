@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lemon-mint/coord/internal/callid"
-	"github.com/lemon-mint/coord/internal/llmutils"
-	"github.com/lemon-mint/coord/llm"
+	"github.com/2rebi/coord/internal/callid"
+	"github.com/2rebi/coord/internal/llmutils"
+	"github.com/2rebi/coord/llm"
 
 	yaml "github.com/goccy/go-yaml"
 )

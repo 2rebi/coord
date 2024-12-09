@@ -4,7 +4,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/lemon-mint/coord/provider"
+	"github.com/2rebi/coord/provider"
 )
 
 var (

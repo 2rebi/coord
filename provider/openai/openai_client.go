@@ -2,7 +2,7 @@ package openai
 
 import (
 	"errors"
-	"github.com/lemon-mint/coord/pconf"
+	"github.com/2rebi/coord/pconf"
 	"github.com/sashabaranov/go-openai"
 )
 

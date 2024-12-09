@@ -3,11 +3,11 @@ package aistudio
 import (
 	"context"
 
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/embedding"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
 	"github.com/google/generative-ai-go/genai"
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/embedding"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
 )
 
 var _ embedding.Model = (*textEmbedding)(nil)

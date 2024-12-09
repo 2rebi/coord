@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/llm"
-	"github.com/lemon-mint/coord/pconf"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/llm"
+	"github.com/2rebi/coord/pconf"
 	"gopkg.eu.org/envloader"
 
-	_ "github.com/lemon-mint/coord/provider/vertexai"
+	_ "github.com/2rebi/coord/provider/vertexai"
 )
 
 func main() {

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lemon-mint/coord/internal/useragent"
-	"github.com/lemon-mint/coord/llm"
+	"github.com/2rebi/coord/internal/useragent"
+	"github.com/2rebi/coord/llm"
 )
 
 var UserAgent *string = ptrify(useragent.HTTPUserAgent)

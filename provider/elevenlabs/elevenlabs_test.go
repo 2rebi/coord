@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider/elevenlabs"
-	"github.com/lemon-mint/coord/tts"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider/elevenlabs"
+	"github.com/2rebi/coord/tts"
 	"gopkg.eu.org/envloader"
 )
 

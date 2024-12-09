@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
 )
 
 var ErrNoSuchProvider = errors.New("coord: no such provider")

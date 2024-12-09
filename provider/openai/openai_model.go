@@ -6,11 +6,11 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/lemon-mint/coord"
-	"github.com/lemon-mint/coord/internal/llmutils"
-	"github.com/lemon-mint/coord/llm"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/provider"
+	"github.com/2rebi/coord"
+	"github.com/2rebi/coord/internal/llmutils"
+	"github.com/2rebi/coord/llm"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/provider"
 
 	"github.com/sashabaranov/go-openai"
 	"github.com/sashabaranov/go-openai/jsonschema"

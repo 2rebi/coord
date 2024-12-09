@@ -3,10 +3,10 @@ package provider
 import (
 	"context"
 
-	"github.com/lemon-mint/coord/embedding"
-	"github.com/lemon-mint/coord/llm"
-	"github.com/lemon-mint/coord/pconf"
-	"github.com/lemon-mint/coord/tts"
+	"github.com/2rebi/coord/embedding"
+	"github.com/2rebi/coord/llm"
+	"github.com/2rebi/coord/pconf"
+	"github.com/2rebi/coord/tts"
 )
 
 type LLMClient interface {
