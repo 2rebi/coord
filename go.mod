@@ -1,4 +1,4 @@
-module github.com/lemon-mint/coord
+module github.com/2rebi/coord
 
 go 1.23
 
